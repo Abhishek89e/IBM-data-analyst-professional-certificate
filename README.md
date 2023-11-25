@@ -27,5 +27,8 @@ Libraries: Pandas, NumPy
 
 Projects:
 
+
 Course Certificate
 Total Hours: ~132 Hrs
+
+![Screenshot 2023-11-25 114708](https://github.com/Abhishek89e/IBM-data-analyst-professional-certificate/assets/69867773/54ba23cc-11fe-4a89-932c-3a634ee6cdde)
